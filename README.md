@@ -32,7 +32,7 @@ Thanks for stopping by! 🚀
 
 ![My Skills](https://skillicons.dev/icons?i=c,java,python,javascript,react,html,css)
 
-### GitHub Stats
+<!---### GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=del-Moonlight&show_icons=true&theme=radical)](https://github.com/del-Moonlight)
 
